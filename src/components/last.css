@@ -1,0 +1,65 @@
+.lastone {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+    /* background-color: black; */
+    /* height: 100%; */
+  }
+  
+  .lastone .right img {
+    height: 350px;
+    width: 500px;
+    margin-bottom: 50px;
+  }
+  .last h1 {
+    color: rgb(245, 134, 38);
+    font-weight: bold;
+    margin-left: 30px;
+    margin-top: 35px;
+  }
+  .last p {
+    color: rgb(212, 198, 198);
+    margin-left: 30px;
+    margin-top: 15px;
+    padding-right: 30px;
+  }
+  .lastone .left .one {
+    color: rgb(245, 134, 38);
+    font-weight: bold;
+    margin-left: 0;
+  }
+  .lastone .left .three {
+    color: rgb(245, 134, 38);
+    font-weight: bold;
+    margin-left: 0;
+  }
+
+  .lastone .left .four{
+    margin-left: 0;
+  }
+
+   .last .five {
+    color: rgb(245, 134, 38);
+    margin-left: 60px;
+    font-weight: bold;
+    margin-left: 30px;
+  }
+  .lastone .left .two{
+    margin-left: 0;
+  }
+  .last .left .six {
+    color: rgb(212, 198, 198);
+    margin-left: 60px;
+    /* width: 00px; */
+    margin-left: 0;
+  }
+
+  .last h3{
+    margin-left: 30px;
+    margin-top: 15px;
+    font-size: 18px;
+    color: rgb(245, 134, 38);
+    margin-left: 30px;
+  }
+  

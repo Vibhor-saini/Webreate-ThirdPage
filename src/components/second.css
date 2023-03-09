@@ -1,0 +1,61 @@
+.second .one {
+  font-size: 35px;
+  width: 55%;
+  margin-left: 30px;
+  font-weight: bold;
+  color: rgb(245, 134, 38);
+  margin-top: 50px;
+}
+
+.second .container {
+  height: 570px;
+}
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: black;
+  /* height: 400px; */
+  margin-top: 20px;
+}
+
+.container .cont h1 {
+  color: rgb(245, 134, 38);
+  margin-left: 40px;
+  font-size: 45px;
+  padding-top: 20px;
+  padding-bottom: 25px;
+}
+
+.container .cont h2 {
+  margin-left: 40px;
+  color: rgb(212, 198, 198);
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+.container .cont p {
+  color: rgb(212, 198, 198);
+  margin-left: 40px;
+  width: 550px;
+  word-spacing: 3px;
+}
+
+.cont .images img {
+
+  text-align: center;
+ 
+  width: 15%;
+
+  padding-left: 30px;
+  /* padding-right: 100px; */
+  margin-top: 30px;
+  /* margin-bottom: 20px; */
+  /* margin-bottom: 30px; */
+  /* height: 100px; */
+}
+
+.container img {
+  width: 35%;
+  margin-right: 70px;
+}

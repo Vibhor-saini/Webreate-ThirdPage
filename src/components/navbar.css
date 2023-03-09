@@ -1,0 +1,43 @@
+.top {
+  color: rgb(245, 134, 38);
+  text-align: center;
+  font-weight: bold;
+  margin-bottom: 10px;
+  padding-top: 10px;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: black;
+  height: 65px;
+
+}
+
+
+
+.navbar .left img{
+  height: 50px;
+  top: 50px;
+  left: 10px;
+  position: absolute;
+  width: 23%;
+ 
+}
+
+
+
+.navbar .right {
+ 
+  width: 150px;
+  height: 40px;
+  margin-right: 20px;
+}
+
+.navbar .right p {
+  text-align: center;
+  padding-top: 7px;
+  font-size: 25px;
+  color: rgb(212, 198, 198);
+}

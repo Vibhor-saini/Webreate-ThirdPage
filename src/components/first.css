@@ -1,0 +1,18 @@
+.first {
+   
+    margin-top: 5%;
+  }
+  
+  .first h2 {
+    font-size: 40px;
+    padding-left: 30px;
+    color: rgb(245, 134, 38);
+  }
+  
+  .first p {
+    padding-top: 25px;
+    padding-left: 30px;
+    width: 100%;
+    color: rgb(212, 198, 198);
+  }
+  

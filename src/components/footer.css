@@ -1,0 +1,122 @@
+
+footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  /* background-color: aliceblue; */
+  height: 600px;
+}
+
+footer .left {
+  background-image: url(img/ImageSeven.png);
+  background-repeat: no-repeat no-repeat;
+  height: 100%;
+  width: 90%;
+  padding-left: 30px;
+  margin-bottom: 100px;
+
+  margin-right: 80px;
+  margin-top: 110px;
+
+  padding-bottom: 100px;
+  margin-left: 20px;
+}
+
+footer .left p {
+  color: rgb(212, 198, 198);
+  font-size: 50px;
+  font-size: 5rem;
+  margin-left: 200px;
+  color: rgb(239, 146, 65);
+}
+
+/* position: relative; */
+
+footer .right {
+  background-image: url(img/expertswebreate.png);
+  background-repeat: no-repeat;
+  background-position: right;
+  background-size: 110px;
+  height: 550px;
+  width: 55%;
+  background-color: black;
+  margin-right: 20px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+  /* position: relative; */
+}
+
+footer .right p {
+  font-size: 2.8rem;
+  font-weight: bold;
+  text-align: start;
+  margin-top: 20px;
+  margin-left: 15px;
+  color: rgb(212, 198, 198);
+}
+
+footer .right span {
+  color: rgb(245, 134, 38);
+}
+
+footer .right form {
+  text-align: center;
+  margin-top: 15px;
+  /* margin-right: 20px; */
+  width: 450px;
+  /* margin-left: 30px; */
+}
+
+footer .right input {
+  width: 370px;
+
+  margin-top: 10px;
+margin-right: 20px;
+  height: 40px;
+  text-align: left;
+  background-color: rgb(24, 22, 22);
+
+  border: none;
+}
+footer ::placeholder {
+  color: rgb(212, 198, 198);
+  /* margin-left: 20px; */
+  padding-left: 30px;
+  font-weight: bold;
+  /* text-align: center; */
+  padding-top: 20px;
+}
+footer textarea {
+  width: 370px;
+  margin-top: 10px;
+  margin-right: 20px;
+  border: none;
+  background-color: rgb(24, 22, 22);
+
+  /* margin-left: 15px; */
+}
+
+footer .right .first {
+  font-size: 12px;
+  /* width: 500px; */
+}
+
+footer form button {
+  background-color: black;
+  color: rgb(245, 134, 38);
+  border: 2px solid rgb(245, 134, 38);
+  border-radius: 2px;
+  height: 30px;
+  width: 100px;
+  margin-top: 10px;
+  font-weight: bold;
+  cursor: pointer;
+  margin-top: 25px;
+}
+
+footer form button:hover{
+  background-color: white;
+  color: black;
+  font-weight: bold;
+  border: 2px solid black;
+}
